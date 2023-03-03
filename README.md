@@ -2,7 +2,7 @@
 
 ## About the Project:
 
-## #Tech Stack:
+### Tech Stack:
 
 * [React](https://reactjs.org/)
 * [Redux](https://redux.js.org/)
